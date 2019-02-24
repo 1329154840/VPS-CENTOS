@@ -16,6 +16,6 @@
 
 # Waiting for few minutes...
 
-# Ckeck your proccess
+# Ckeck your process
 
 ```ps -ef|grep shadowsocks```
