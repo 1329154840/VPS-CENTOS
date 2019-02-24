@@ -18,4 +18,4 @@
 
 # Ckeck your proccess
 
-```ps -ef|grep shadowsocket```
+```ps -ef|grep shadowsocks```
