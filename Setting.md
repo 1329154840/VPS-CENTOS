@@ -1,7 +1,13 @@
 # Edit you config.json
 
-```vi /etc/shadowsocks-python/config.json```
+```vi /etc/shadowsocks.json```
 
-# Run your Config
+# Retart your Config
 
-```ssserver -c /etc/shadowsocks-python/config.json```
+```/etc/init.d/shadowsocks restart```
+
+# Other setting
+
+```/etc/init.d/shadowsocks start```
+```/etc/init.d/shadowsocks stop```
+```/etc/init.d/shadowsocks status```
