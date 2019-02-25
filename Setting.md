@@ -9,5 +9,7 @@
 # Other setting
 
 ```/etc/init.d/shadowsocks start```
+
 ```/etc/init.d/shadowsocks stop```
+
 ```/etc/init.d/shadowsocks status```
